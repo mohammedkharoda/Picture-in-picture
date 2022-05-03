@@ -10,7 +10,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: rgb(37, 37, 37);
+  background: linear-gradient(to right, #8e0e00, #1f1c18);
 }
 
 button {
@@ -41,7 +41,7 @@ button:after {
 }
 
 button:hover:after {
-  box-shadow: 0px -13px 56px 12px #ffffffa6;
+  box-shadow: 0px -13px 56px 12px #cf0404;
 }
 
 button span {
